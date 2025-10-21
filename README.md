@@ -1,1 +1,3 @@
-# git-activity-Omandam
+Jasmine C. Omandam
+BSIT-3
+Git is a version control system that helps track changes in code, making collaboration and backup easier. GitHub is a cloud-based platform that hosts Git repositories, allowing developers to share their work, contribute to projects, and manage issues and updates. I learned how Git commands like commit, push, and pull work together with GitHub to streamline teamwork and maintain organized codebases.
